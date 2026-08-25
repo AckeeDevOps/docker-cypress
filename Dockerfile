@@ -1,4 +1,4 @@
-FROM cypress/included:3.8.3
+FROM cypress/included:15.21.1
 
 ENV NODE_PATH=/usr/local/lib/node_modules/
 
